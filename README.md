@@ -22,4 +22,5 @@ Repository to keep track of work assigned on a daily basis
 (Published on Analytics Vidhya)
 
 ### Day-5: OpenCV
-[Computer Vision and Image Processing with OpenCV](https://tp6145.medium.com/computer-vision-and-image-processing-with-opencv-8868876618c3)
+[Computer Vision and Image Processing with OpenCV](https://medium.com/analytics-vidhya/computer-vision-and-image-processing-with-opencv-8868876618c3)
+(Published on Analytics Vidhya)
