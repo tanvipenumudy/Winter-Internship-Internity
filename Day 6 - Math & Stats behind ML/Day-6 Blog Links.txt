@@ -1,5 +1,5 @@
-https://tp6145.medium.com/mathematics-for-machine-learning-part-1-5e210c138a12
-https://tp6145.medium.com/mathematics-for-machine-learning-part-2-fa36b6154dec
-https://tp6145.medium.com/mathematics-for-machine-learning-part-3-4acbc355fb03
-https://tp6145.medium.com/mathematics-for-machine-learning-part-4-8032bec2aa3d
-https://tp6145.medium.com/mathematics-for-machine-learning-part-5-8df72392ec10
+https://medium.com/datadriveninvestor/mathematics-for-machine-learning-part-1-5e210c138a12 
+https://medium.com/datadriveninvestor/mathematics-for-machine-learning-part-2-fa36b6154dec 
+https://medium.com/datadriveninvestor/mathematics-for-machine-learning-part-3-4acbc355fb03 
+https://medium.com/datadriveninvestor/mathematics-for-machine-learning-part-4-8032bec2aa3d 
+https://medium.com/datadriveninvestor/mathematics-for-machine-learning-part-5-8df72392ec10
