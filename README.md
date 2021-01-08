@@ -40,3 +40,6 @@ Repository to keep track of work assigned on a daily basis
 
 [Mathematics for Machine Learning Part-5](https://tp6145.medium.com/mathematics-for-machine-learning-part-5-8df72392ec10)
 (Published on Data Driven Investor)
+
+### Day-7: Linear Regression
+[Everything You Need to Know About Linear Regression](https://tp6145.medium.com/everything-you-need-to-know-about-linear-regression-750a69a0ea50)
