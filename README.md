@@ -44,3 +44,7 @@ Repository to keep track of work assigned on a daily basis
 ### Day-7: Linear Regression
 [Everything You Need to Know About Linear Regression](https://tp6145.medium.com/everything-you-need-to-know-about-linear-regression-750a69a0ea50)
 (Published on Analytics Vidhya)
+
+### Day-8: KNN
+
+### Day-9: Decision Tree and Random Forest
