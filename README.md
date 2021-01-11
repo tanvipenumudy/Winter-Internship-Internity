@@ -53,3 +53,11 @@ Repository to keep track of work assigned on a daily basis
 [Celebrity Face Recognition using KNN from Scratch](https://tp6145.medium.com/celebrity-face-recognition-using-knn-from-scratch-76287bdab088)
 
 ### Day-9: Decision Tree and Random Forest
+
+### Day-10: Logistic Regression
+
+### Day-11: K-means & Image Segmentation
+
+### Day-12: SVM
+
+### Day-13: Naive Bayes
