@@ -1,1 +1,2 @@
 https://tp6145.medium.com/everything-you-need-to-know-about-linear-regression-750a69a0ea50
+https://tp6145.medium.com/house-price-prediction-using-linear-regression-from-scratch-b2b48fd73689
