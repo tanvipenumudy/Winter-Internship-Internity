@@ -7,3 +7,5 @@ Notebook-2:
 
 ### Article on Medium
 [A Beginner’s Guide to KNN and MNIST Handwritten Digits Recognition using KNN from Scratch](https://tp6145.medium.com/a-beginners-guide-to-knn-and-mnist-handwritten-digits-recognition-using-knn-from-scratch-df6fb982748a)
+
+[Celebrity Face Recognition using KNN from Scratch](https://tp6145.medium.com/celebrity-face-recognition-using-knn-from-scratch-76287bdab088)
