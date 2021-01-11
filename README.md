@@ -45,7 +45,11 @@ Repository to keep track of work assigned on a daily basis
 [Everything You Need to Know About Linear Regression](https://tp6145.medium.com/everything-you-need-to-know-about-linear-regression-750a69a0ea50)
 (Published on Analytics Vidhya)
 
+[House Price Prediction using Linear Regression from Scratch](https://tp6145.medium.com/house-price-prediction-using-linear-regression-from-scratch-b2b48fd73689)
+
 ### Day-8: KNN
 [A Beginner’s Guide to KNN and MNIST Handwritten Digits Recognition using KNN from Scratch](https://tp6145.medium.com/a-beginners-guide-to-knn-and-mnist-handwritten-digits-recognition-using-knn-from-scratch-df6fb982748a)
+
+[Celebrity Face Recognition using KNN from Scratch](https://tp6145.medium.com/celebrity-face-recognition-using-knn-from-scratch-76287bdab088)
 
 ### Day-9: Decision Tree and Random Forest
