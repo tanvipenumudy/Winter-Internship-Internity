@@ -6,3 +6,4 @@
 (Published on Analytics Vidhya)
 
 [House Price Prediction using Linear Regression from Scratch](https://tp6145.medium.com/house-price-prediction-using-linear-regression-from-scratch-b2b48fd73689)
+(Published on Analytics Vidhya)
