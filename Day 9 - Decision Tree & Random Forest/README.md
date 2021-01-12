@@ -8,4 +8,4 @@ Dataset-2 (Notebook-2):
 ### Article on Medium
 [Decision Trees for Dummies](https://tp6145.medium.com/decision-trees-for-dummies-a8e3c00c5e2e)
 
-[Random Forest — Simplified](https://tp6145.medium.com/random-forest-simplified-98da251c7522)
+[Random Forest: Simplified](https://tp6145.medium.com/random-forest-simplified-98da251c7522)
