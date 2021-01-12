@@ -55,6 +55,9 @@ Repository to keep track of work assigned on a daily basis
 (Published on Analytics Vidhya)
 
 ### Day-9: Decision Tree and Random Forest
+[Decision Trees for Dummies](https://tp6145.medium.com/decision-trees-for-dummies-a8e3c00c5e2e)
+
+[Random Forest: Simplified](https://tp6145.medium.com/random-forest-simplified-98da251c7522)
 
 ### Day-10: Logistic Regression
 
