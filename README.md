@@ -50,14 +50,17 @@ Repository to keep track of work assigned on a daily basis
 
 ### Day-8: KNN
 [A Beginner’s Guide to KNN and MNIST Handwritten Digits Recognition using KNN from Scratch](https://tp6145.medium.com/a-beginners-guide-to-knn-and-mnist-handwritten-digits-recognition-using-knn-from-scratch-df6fb982748a)
+(Published on Analytics Vidhya)
 
 [Celebrity Face Recognition using KNN from Scratch](https://tp6145.medium.com/celebrity-face-recognition-using-knn-from-scratch-76287bdab088)
 (Published on Analytics Vidhya)
 
 ### Day-9: Decision Tree and Random Forest
 [Decision Trees for Dummies](https://tp6145.medium.com/decision-trees-for-dummies-a8e3c00c5e2e)
+(Published on Analytics Vidhya)
 
 [Random Forest: Simplified](https://tp6145.medium.com/random-forest-simplified-98da251c7522)
+(Published on Analytics Vidhya)
 
 ### Day-10: Logistic Regression
 
