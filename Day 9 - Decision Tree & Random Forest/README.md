@@ -7,5 +7,7 @@ Dataset-2 (Notebook-2):
 
 ### Articles on Medium
 [Decision Trees for Dummies](https://tp6145.medium.com/decision-trees-for-dummies-a8e3c00c5e2e)
+(Published on Analytics Vidhya)
 
 [Random Forest: Simplified](https://tp6145.medium.com/random-forest-simplified-98da251c7522)
+(Published on Analytics Vidhya)
