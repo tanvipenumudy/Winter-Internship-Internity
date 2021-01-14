@@ -64,6 +64,7 @@ Repository to keep track of work assigned on a daily basis
 
 ### Day-10: Logistic Regression
 [A Comprehensive Guide to Logistic Regression](https://tp6145.medium.com/a-comprehensive-guide-to-logistic-regression-e0cf04fe738c)
+(Published on Analytics Vidhya)
 
 ### Day-11: K-means & Image Segmentation
 
