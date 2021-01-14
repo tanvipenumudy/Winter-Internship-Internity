@@ -62,6 +62,10 @@ Repository to keep track of work assigned on a daily basis
 [Random Forest: Simplified](https://tp6145.medium.com/random-forest-simplified-98da251c7522)
 (Published on Analytics Vidhya)
 
+[Decision Tree from Scratch](https://tp6145.medium.com/decision-tree-from-scratch-a72069240293)
+
+[Random Forest from Scratch](https://tp6145.medium.com/random-forest-from-scratch-fcaeb0bed09a)
+
 ### Day-10: Logistic Regression
 [A Comprehensive Guide to Logistic Regression](https://tp6145.medium.com/a-comprehensive-guide-to-logistic-regression-e0cf04fe738c)
 (Published on Analytics Vidhya)
