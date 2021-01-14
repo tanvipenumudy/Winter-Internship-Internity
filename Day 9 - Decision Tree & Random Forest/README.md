@@ -11,3 +11,7 @@ Dataset-2 (Notebook-2):
 
 [Random Forest: Simplified](https://tp6145.medium.com/random-forest-simplified-98da251c7522)
 (Published on Analytics Vidhya)
+
+[Decision Tree from Scratch](https://tp6145.medium.com/decision-tree-from-scratch-a72069240293)
+
+[Random Forest from Scratch](https://tp6145.medium.com/random-forest-from-scratch-fcaeb0bed09a)
