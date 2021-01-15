@@ -12,3 +12,5 @@ Dataset-3:
 ### Articles on Medium
 [A Comprehensive Guide to Logistic Regression](https://tp6145.medium.com/a-comprehensive-guide-to-logistic-regression-e0cf04fe738c)
 (Published on Analytics Vidhya)
+
+[Logistic Regression from Scratch](https://tp6145.medium.com/logistic-regression-from-scratch-b69a2026536f)
