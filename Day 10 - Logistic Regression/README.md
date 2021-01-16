@@ -14,3 +14,4 @@ Dataset-3:
 (Published on Analytics Vidhya)
 
 [Logistic Regression from Scratch](https://tp6145.medium.com/logistic-regression-from-scratch-b69a2026536f)
+(Published on The Startup)
