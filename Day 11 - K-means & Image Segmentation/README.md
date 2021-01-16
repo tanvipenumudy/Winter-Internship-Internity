@@ -9,4 +9,8 @@ Notebook-2:
 [Plitvice Lakes National Park](https://github.com/tanvipenumudy/Winter-Internship-Internity/blob/main/Day%2011%20-%20K-means%20%26%20Image%20Segmentation/Images/Notebook-2.PNG)
 
 ### Articles on Medium
-Shall be updated shortly
+[Everything you need to know about K-Means Clustering](https://tp6145.medium.com/everything-you-need-to-know-about-k-means-clustering-88ad4058cce0)
+
+[Extracting Dominant Colours from an Image using K-means Clustering from Scratch](https://tp6145.medium.com/extracting-dominant-colours-in-an-image-using-k-means-clustering-from-scratch-2ce79a3eea5d)
+
+[Image Segmentation using K-means Clustering from Scratch](https://tp6145.medium.com/image-segmentation-using-k-means-clustering-from-scratch-1545c896e38e)
