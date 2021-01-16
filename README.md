@@ -74,7 +74,7 @@ Repository to keep track of work assigned on a daily basis
 [Logistic Regression from Scratch](https://tp6145.medium.com/logistic-regression-from-scratch-b69a2026536f)
 (Published on The Startup)
 
-### Day-11: K-means & Image Segmentation
+### Day-11: K-means Clustering & Image Segmentation
 
 ### Day-12: SVM
 
