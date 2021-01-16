@@ -15,3 +15,4 @@ Dataset-2 (Notebook-2):
 [Decision Tree from Scratch](https://tp6145.medium.com/decision-tree-from-scratch-a72069240293)
 
 [Random Forest from Scratch](https://tp6145.medium.com/random-forest-from-scratch-fcaeb0bed09a)
+(Published on The Startup)
