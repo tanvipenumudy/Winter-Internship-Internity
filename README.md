@@ -63,6 +63,7 @@ Repository to keep track of work assigned on a daily basis
 (Published on Analytics Vidhya)
 
 [Decision Tree from Scratch](https://tp6145.medium.com/decision-tree-from-scratch-a72069240293)
+(Published on The Startup)
 
 [Random Forest from Scratch](https://tp6145.medium.com/random-forest-from-scratch-fcaeb0bed09a)
 
@@ -71,6 +72,7 @@ Repository to keep track of work assigned on a daily basis
 (Published on Analytics Vidhya)
 
 [Logistic Regression from Scratch](https://tp6145.medium.com/logistic-regression-from-scratch-b69a2026536f)
+(Published on The Startup)
 
 ### Day-11: K-means & Image Segmentation
 
