@@ -76,17 +76,20 @@ Repository to keep track of work assigned on a daily basis
 
 ### Day-11: K-means Clustering & Image Segmentation
 [Everything you need to know about K-Means Clustering](https://tp6145.medium.com/everything-you-need-to-know-about-k-means-clustering-88ad4058cce0)
+(Published on Analytics Vidhya)
 
 [Extracting Dominant Colours from an Image using K-means Clustering from Scratch](https://tp6145.medium.com/extracting-dominant-colours-in-an-image-using-k-means-clustering-from-scratch-2ce79a3eea5d)
+(Published on Analytics Vidhya)
 
 [Image Segmentation using K-means Clustering from Scratch](https://tp6145.medium.com/image-segmentation-using-k-means-clustering-from-scratch-1545c896e38e)
+(Published on Analytics Vidhya)
 
 ### Day-12: SVM
-[A Beginner's Introduction to SVM]()
+[A Beginner's Introduction to SVM](https://tp6145.medium.com/a-beginners-introduction-to-svm-c641c3ff2769)
 
-[SVM from Scratch]()
+[SVM from Scratch](https://tp6145.medium.com/svm-from-scratch-c2decb4a2d15)
 
 ### Day-13: Naive Bayes
-[A Machine Learning Roadmap to Naive Bayes]()
+[A Machine Learning Roadmap to Naive Bayes](https://tp6145.medium.com/a-machine-learning-roadmap-to-naive-bayes-66437a48d9f3)
 
-[Naive Bayes from Scratch]()
+[Naive Bayes from Scratch](https://tp6145.medium.com/naive-bayes-from-scratch-c0c93ed4b826)
