@@ -82,5 +82,11 @@ Repository to keep track of work assigned on a daily basis
 [Image Segmentation using K-means Clustering from Scratch](https://tp6145.medium.com/image-segmentation-using-k-means-clustering-from-scratch-1545c896e38e)
 
 ### Day-12: SVM
+[A Beginner's Introduction to SVM]()
+
+[SVM from Scratch]()
 
 ### Day-13: Naive Bayes
+[A Machine Learning Roadmap to Naive Bayes]()
+
+[Naive Bayes from Scratch]()
