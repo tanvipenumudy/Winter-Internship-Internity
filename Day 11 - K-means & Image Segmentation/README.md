@@ -10,7 +10,10 @@ Notebook-2:
 
 ### Articles on Medium
 [Everything you need to know about K-Means Clustering](https://tp6145.medium.com/everything-you-need-to-know-about-k-means-clustering-88ad4058cce0)
+(Published on Analytics Vidhya)
 
 [Extracting Dominant Colours from an Image using K-means Clustering from Scratch](https://tp6145.medium.com/extracting-dominant-colours-in-an-image-using-k-means-clustering-from-scratch-2ce79a3eea5d)
+(Published on Analytics Vidhya)
 
 [Image Segmentation using K-means Clustering from Scratch](https://tp6145.medium.com/image-segmentation-using-k-means-clustering-from-scratch-1545c896e38e)
+(Published on Analytics Vidhya)
