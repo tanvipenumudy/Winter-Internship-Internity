@@ -1,3 +1,6 @@
+### Dataset
+Notebook-3: [Crime Data](https://raw.githubusercontent.com/namanvashistha/doctor_strange/master/crime.csv)
+
 ### Images
 Notebook-1 Image-1:
 [Pebbles](https://github.com/tanvipenumudy/Winter-Internship-Internity/blob/main/Day%2011%20-%20K-means%20%26%20Image%20Segmentation/Images/Notebook-1%20Image-1.png)
