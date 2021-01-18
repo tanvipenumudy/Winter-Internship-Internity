@@ -20,3 +20,5 @@ Notebook-2:
 
 [Image Segmentation using K-means Clustering from Scratch](https://tp6145.medium.com/image-segmentation-using-k-means-clustering-from-scratch-1545c896e38e)
 (Published on Analytics Vidhya)
+
+[Crime Data Pattern Analysis and Visualization using K-means Clustering](https://tp6145.medium.com/crime-data-pattern-analysis-and-visualization-using-k-means-clustering-ceeb963a2b47)
