@@ -55,6 +55,8 @@ Repository to keep track of work assigned on a daily basis
 [Celebrity Face Recognition using KNN from Scratch](https://tp6145.medium.com/celebrity-face-recognition-using-knn-from-scratch-76287bdab088)
 (Published on Analytics Vidhya)
 
+[Face Detection and Recognition using OpenCV and KNN from Scratch](https://tp6145.medium.com/face-detection-and-recognition-using-opencv-and-knn-from-scratch-dcba9b0fd07d)
+
 ### Day-9: Decision Tree and Random Forest
 [Decision Trees for Dummies](https://tp6145.medium.com/decision-trees-for-dummies-a8e3c00c5e2e)
 (Published on Analytics Vidhya)
