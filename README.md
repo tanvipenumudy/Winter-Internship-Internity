@@ -56,6 +56,7 @@ Repository to keep track of work assigned on a daily basis
 (Published on Analytics Vidhya)
 
 [Face Detection and Recognition using OpenCV and KNN from Scratch](https://tp6145.medium.com/face-detection-and-recognition-using-opencv-and-knn-from-scratch-dcba9b0fd07d)
+(Published on Analytics Vidhya)
 
 ### Day-9: Decision Tree and Random Forest
 [Decision Trees for Dummies](https://tp6145.medium.com/decision-trees-for-dummies-a8e3c00c5e2e)
@@ -87,13 +88,16 @@ Repository to keep track of work assigned on a daily basis
 (Published on Analytics Vidhya)
 
 [Crime Data Pattern Analysis and Visualization using K-means Clustering](https://tp6145.medium.com/crime-data-pattern-analysis-and-visualization-using-k-means-clustering-ceeb963a2b47)
+(Published on Analytics Vidhya)
 
 ### Day-12: SVM
 [A Beginner's Introduction to SVM](https://tp6145.medium.com/a-beginners-introduction-to-svm-c641c3ff2769)
+(Published on Analytics Vidhya)
 
 [SVM from Scratch](https://tp6145.medium.com/svm-from-scratch-c2decb4a2d15)
 
 ### Day-13: Naive Bayes
 [A Machine Learning Roadmap to Naive Bayes](https://tp6145.medium.com/a-machine-learning-roadmap-to-naive-bayes-66437a48d9f3)
+(Published on Analytics Vidhya)
 
 [Naive Bayes from Scratch](https://tp6145.medium.com/naive-bayes-from-scratch-c0c93ed4b826)
