@@ -1,1 +1,2 @@
-None
+https://medium.com/analytics-vidhya/a-beginners-introduction-to-svm-c641c3ff2769
+https://tp6145.medium.com/svm-from-scratch-c2decb4a2d15
