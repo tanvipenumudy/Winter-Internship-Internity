@@ -13,3 +13,4 @@ Notebook-2:
 (Published on Analytics Vidhya)
 
 [Face Detection and Recognition using OpenCV and KNN from Scratch](https://tp6145.medium.com/face-detection-and-recognition-using-opencv-and-knn-from-scratch-dcba9b0fd07d)
+(Published on Analytics Vidhya)
