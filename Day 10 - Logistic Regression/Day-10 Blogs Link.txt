@@ -1,1 +1,2 @@
 https://tp6145.medium.com/a-comprehensive-guide-to-logistic-regression-e0cf04fe738c
+https://medium.com/swlh/logistic-regression-from-scratch-b69a2026536f
