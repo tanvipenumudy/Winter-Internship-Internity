@@ -1,1 +1,2 @@
-None
+https://medium.com/analytics-vidhya/a-machine-learning-roadmap-to-naive-bayes-66437a48d9f3
+https://tp6145.medium.com/naive-bayes-from-scratch-c0c93ed4b826
