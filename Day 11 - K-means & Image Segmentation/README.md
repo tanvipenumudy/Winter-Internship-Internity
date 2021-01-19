@@ -22,3 +22,4 @@ Notebook-2:
 (Published on Analytics Vidhya)
 
 [Crime Data Pattern Analysis and Visualization using K-means Clustering](https://tp6145.medium.com/crime-data-pattern-analysis-and-visualization-using-k-means-clustering-ceeb963a2b47)
+(Published on Analytics Vidhya)
