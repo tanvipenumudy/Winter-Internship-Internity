@@ -3,5 +3,6 @@
 
 ### Articles on Medium
 [A Beginner's Introduction to SVM](https://tp6145.medium.com/a-beginners-introduction-to-svm-c641c3ff2769)
+(Published on Analytics Vidhya)
 
 [SVM from Scratch](https://tp6145.medium.com/svm-from-scratch-c2decb4a2d15)
