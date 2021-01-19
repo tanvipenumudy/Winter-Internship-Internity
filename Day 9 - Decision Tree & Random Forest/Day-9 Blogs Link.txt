@@ -1,2 +1,4 @@
 https://tp6145.medium.com/decision-trees-for-dummies-a8e3c00c5e2e
 https://tp6145.medium.com/random-forest-simplified-98da251c7522
+https://tp6145.medium.com/decision-tree-from-scratch-a72069240293
+https://tp6145.medium.com/random-forest-from-scratch-fcaeb0bed09a
