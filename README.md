@@ -69,7 +69,7 @@ Repository to keep track of work assigned on a daily basis
 (Published on The Startup)
 
 [Random Forest from Scratch](https://tp6145.medium.com/random-forest-from-scratch-fcaeb0bed09a)
-(Published in Python in Plain English)
+(Published on Python in Plain English)
 
 ### Day-10: Logistic Regression
 [A Comprehensive Guide to Logistic Regression](https://tp6145.medium.com/a-comprehensive-guide-to-logistic-regression-e0cf04fe738c)
