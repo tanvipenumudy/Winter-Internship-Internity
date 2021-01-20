@@ -69,6 +69,7 @@ Repository to keep track of work assigned on a daily basis
 (Published on The Startup)
 
 [Random Forest from Scratch](https://tp6145.medium.com/random-forest-from-scratch-fcaeb0bed09a)
+(Published in Python in Plain English)
 
 ### Day-10: Logistic Regression
 [A Comprehensive Guide to Logistic Regression](https://tp6145.medium.com/a-comprehensive-guide-to-logistic-regression-e0cf04fe738c)
@@ -95,9 +96,11 @@ Repository to keep track of work assigned on a daily basis
 (Published on Analytics Vidhya)
 
 [SVM from Scratch](https://tp6145.medium.com/svm-from-scratch-c2decb4a2d15)
+(Published on The Startup)
 
 ### Day-13: Naive Bayes
 [A Machine Learning Roadmap to Naive Bayes](https://tp6145.medium.com/a-machine-learning-roadmap-to-naive-bayes-66437a48d9f3)
 (Published on Analytics Vidhya)
 
 [Naive Bayes from Scratch](https://tp6145.medium.com/naive-bayes-from-scratch-c0c93ed4b826)
+(Published on The Startup)
