@@ -6,3 +6,4 @@
 (Published on Analytics Vidhya)
 
 [Naive Bayes from Scratch](https://tp6145.medium.com/naive-bayes-from-scratch-c0c93ed4b826)
+(Published on The Startup)
