@@ -6,3 +6,4 @@
 (Published on Analytics Vidhya)
 
 [SVM from Scratch](https://tp6145.medium.com/svm-from-scratch-c2decb4a2d15)
+(Published on The Startup)
