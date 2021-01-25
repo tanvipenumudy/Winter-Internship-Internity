@@ -3,7 +3,7 @@ Dataset-1 (Notebook-1 & 2):
 [Breast Cancer Wisconsin (Diagnostic) Dataset](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
 
 Dataset-2 (Notebook-2):
-[Titanic Survivor Dataset](https://github.com/tanvipenumudy/Winter-Internship-Internity/blob/main/Day%209%20-%20Decision%20Tree%20%26%20Random%20Forest/Day-9%20Dataset%20(titanic).csv)
+[Titanic Survivor Dataset](https://github.com/tanvipenumudy/Winter-Internship-Internity/blob/main/Day%2009/Day-9%20Dataset%20(titanic).csv)
 
 ### Articles on Medium
 [Decision Trees for Dummies](https://tp6145.medium.com/decision-trees-for-dummies-a8e3c00c5e2e)
