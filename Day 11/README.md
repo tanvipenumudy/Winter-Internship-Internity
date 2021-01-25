@@ -3,13 +3,13 @@ Notebook-3: [Crime Data](https://raw.githubusercontent.com/namanvashistha/doctor
 
 ### Images
 Notebook-1 Image-1:
-[Pebbles](https://github.com/tanvipenumudy/Winter-Internship-Internity/blob/main/Day%2011%20-%20K-means%20%26%20Image%20Segmentation/Images/Notebook-1%20Image-1.png)
+[Pebbles](https://github.com/tanvipenumudy/Winter-Internship-Internity/blob/main/Day%2011/Images/Notebook-1%20Image-1.png)
 
 Notebook-1 Image-2:
-[Umbrella Windows Wallpaper](https://github.com/tanvipenumudy/Winter-Internship-Internity/blob/main/Day%2011%20-%20K-means%20%26%20Image%20Segmentation/Images/Notebook-1%20Image-2.jpg)
+[Umbrella Windows Wallpaper](https://github.com/tanvipenumudy/Winter-Internship-Internity/blob/main/Day%2011/Images/Notebook-1%20Image-2.jpg)
 
 Notebook-2:
-[Plitvice Lakes National Park](https://github.com/tanvipenumudy/Winter-Internship-Internity/blob/main/Day%2011%20-%20K-means%20%26%20Image%20Segmentation/Images/Notebook-2.PNG)
+[Plitvice Lakes National Park](https://github.com/tanvipenumudy/Winter-Internship-Internity/blob/main/Day%2011/Images/Notebook-2.PNG)
 
 ### Articles on Medium
 [Everything you need to know about K-Means Clustering](https://tp6145.medium.com/everything-you-need-to-know-about-k-means-clustering-88ad4058cce0)
