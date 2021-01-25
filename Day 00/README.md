@@ -13,5 +13,5 @@ Passion is the energy that keeps us going, that keeps us filled with meaning, an
 - It helps you fulfill more tasks in less time, and in turn, feel more fulfilled.
 - It helps you feel calmer and less stressed over time and make a change in your lifestyle for the better.
 
-Also, coming to the Agile Methodology/Practices employed in the internship, I'm pretty excited to see for myself how theoretical concepts taught in Software Engineering are actually put to practice in industry via Trello etc, which I'd be using for the very first time!
+Also, coming to the Agile Methodology/Practices employed in the internship, I'm pretty excited to see for myself how theoretical concepts taught in Software Engineering are actually put to practice in industry via Trello, Slack etc, which I'd be using for the very first time!
 
