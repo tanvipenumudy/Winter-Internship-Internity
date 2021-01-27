@@ -2,7 +2,7 @@
 Repository to keep track of work assigned on a daily basis
 
 ## Articles on Medium
-### Day 01: ML Intro
+### Day 01: ML Introduction
 [A Beginner’s Guide for Getting Started with Machine Learning](https://medium.com/analytics-vidhya/a-beginners-guide-for-getting-started-with-machine-learning-7ba2cd5796ae)
 (Published on Analytics Vidhya)
 
