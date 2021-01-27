@@ -2,8 +2,7 @@
 Repository to keep track of work assigned on a daily basis
 
 ## Profiles
-#### [Medium](https://tp6145.medium.com/) 
-#### [Stack Overflow](https://stackoverflow.com/users/14891871/tanvi-penumudy)
+[Medium](https://tp6145.medium.com/) | [Stack Overflow](https://stackoverflow.com/users/14891871/tanvi-penumudy)
 
 ## Articles on Medium
 ### Day 01: ML Introduction
