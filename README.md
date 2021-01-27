@@ -1,6 +1,10 @@
 # Winter-Internship-Internity
 Repository to keep track of work assigned on a daily basis
 
+## Profiles
+#### [Medium](https://tp6145.medium.com/) 
+#### [Stack Overflow](https://stackoverflow.com/users/14891871/tanvi-penumudy)
+
 ## Articles on Medium
 ### Day 01: ML Introduction
 [A Beginner’s Guide for Getting Started with Machine Learning](https://medium.com/analytics-vidhya/a-beginners-guide-for-getting-started-with-machine-learning-7ba2cd5796ae)
